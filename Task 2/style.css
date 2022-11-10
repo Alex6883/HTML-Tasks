@@ -1,0 +1,9 @@
+body {
+    background-color: azure;
+}
+
+.block {
+    background-color: yellow;
+    color: black;
+    text-align: right;
+}
