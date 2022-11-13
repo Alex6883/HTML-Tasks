@@ -1,0 +1,47 @@
+.Text {
+    background: greenyellow;
+    color: green;
+    padding: 20px;
+    width: 900px;
+    font-size: x-large;
+    top: 65px;
+    position: absolute;
+    left: 300px;
+    font-size: x-large;
+    border-radius: 15px;
+}
+
+.Text2 {
+    background: gold;
+    color: rgb(99, 81, 0);
+    padding: 20px;
+    width: 900px;
+    top: 310px;
+    position: absolute;
+    left: 300px;
+    font-size: x-large;
+    border-radius: 15px;
+}
+
+.line {
+    border-bottom: 1px solid black;
+}
+
+.Text3 {
+    background: skyblue;
+    color: rgb(0, 57, 104);
+    padding: 20px;
+    width: 900px;
+    top: 562px;
+    position: absolute;
+    left: 300px;
+    font-size: x-large;
+    border-radius: 15px;
+}
+
+hr {
+    border: none;
+    background-color: black;
+    color: black;
+    height: 2px;
+}
